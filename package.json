@@ -1,0 +1,16 @@
+{
+  "name": "franklin-bakery",
+  "version": "1.0.0",
+  "description": "Static site made with Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
